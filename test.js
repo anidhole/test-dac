@@ -1,0 +1,1 @@
+console.log("Tnis is a JS")
