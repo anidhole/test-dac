@@ -1,1 +1,1 @@
-console.log("Tnis is a JS")
+console.log("This is a JS File")
